@@ -1,0 +1,21 @@
+{
+	"name"        : "pixelstrolch/wp-github-sync-meta",
+	"description" : "",
+	"keywords"    : ["wordpress", "wp-github-sync-meta"],
+	"type"        : "wordpress-plugin",
+	"homepage"    : "https://github.com/pixelstrolch/wp-github-sync-meta",
+	"license"     : "GPL2",
+	"authors"     : [
+		{
+			"name"    : "Stefan Brechbühl",
+			"homepage": "https://www.pixelstrol.ch"
+		}
+	],
+	"support"     : {
+		"issues": "https://github.com/pixelstrolch/wp-github-sync-meta/issues"
+	},
+	"require" : {
+		"php"                              : ">=5.3",
+		"wpackagist-plugin/wp-github-sync" : "*"
+	}
+}
